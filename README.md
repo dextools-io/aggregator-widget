@@ -1,20 +1,15 @@
-# DEXTswap aggregator widget
+# DEXTswap (aggregator widget)
 
-(This is the public documentation repo of the DEXTswap aggregator widget)
+(This is the public documentation repo for the DEXTSwap aggregator widget)
 
-The **DEXTswap Aggregator Widget** allows websites to embed DEXTswap aggregator for any blockchain where such feature is supported. Same as in [DEXTools.io](https://www.dextools.io) app.
+The **DEXTswap Aggregator Widget** allows websites to embed the DEXTswap aggregator for any blockchain where this feature is supported as in [DEXTools.io](https://www.dextools.io) app.
 
-# TODO: Add widget screenshot
-
-
-## Get your DEXTswap iframe widget code
-
-# TODO: describe steps to get the widget url, still not available
+![image](https://github.com/dextools-io/aggregator-widget/assets/4454927/400250f1-a8b3-4d43-91c6-ed288ec2fcc7)
 
 
 ## Quick Example
 
-A iframe based integration example follows:
+A simple IFrame integration example follows:
 
 ```html
 <!DOCTYPE html>
@@ -41,6 +36,8 @@ A iframe based integration example follows:
 You can test if the IFrame integration works properly with the https://iframetester.com/ tool.
 
 In case the widget does not display prices and/or balances in your website, please check your CSP policy for IFrame content https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
+
+Please be aware that USE OF THIS WIDGET IFRAME FROM **localhost** domain WON'T WORK, please use a real domain instead.
 
 
 ## Customization options
