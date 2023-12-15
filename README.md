@@ -37,14 +37,14 @@ You can test if the IFrame integration works properly with the https://iframetes
 
 In case the widget does not display prices and/or balances in your website, please check your CSP policy for IFrame content https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
 
-Please be aware that USE OF THIS WIDGET IFRAME FROM **localhost** domain WON'T WORK, please use a real domain instead.
+**Please be aware that USE OF THIS WIDGET IFRAME FROM **localhost** domain WON'T WORK, use a real domain instead.**
 
 
 ## Customization options
 
 The widget is configured adjusting following parts and query parameters of this URL:
 
-```
+```text
 https://www.dextools.io/widget-aggregator/en/swap/<chainId>/<tokenAddress>?theme=<theme>
 ```
 
@@ -70,3 +70,5 @@ This is the current list of blockchains supported:
 | AURORA     | aurora    |
 | AVALANCHE  | avalanche |
 | OPTIMISM   | optimism  |
+| ZKSYNC     | zksync    |
+| BASE       | base      |
