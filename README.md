@@ -72,3 +72,5 @@ This is the current list of blockchains supported:
 | OPTIMISM   | optimism  |
 | ZKSYNC     | zksync    |
 | BASE       | base      |
+| OKTC       | oktc      |
+| SOLANA     | solana    |
