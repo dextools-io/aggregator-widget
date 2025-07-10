@@ -74,3 +74,4 @@ This is the current list of blockchains supported:
 | BASE       | base      |
 | OKTC       | oktc      |
 | SOLANA     | solana    |
+| SONIC      | sonic     |
