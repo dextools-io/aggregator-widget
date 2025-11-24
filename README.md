@@ -67,7 +67,6 @@ This is the current list of blockchains supported:
 | FANTOM     | fantom    |
 | CRONOS     | cronos    |
 | ARBITRUM   | arbitrum  |
-| AURORA     | aurora    |
 | AVALANCHE  | avalanche |
 | OPTIMISM   | optimism  |
 | ZKSYNC     | zksync    |
